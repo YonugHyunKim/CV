@@ -12,7 +12,7 @@ author_profile: true
 
 ## Education
 **Yonsei University** (Sep 2024–present)  
-- Major in Artificial Intelligence (**M.S./Ph.D. Integrated Course**)
+- Major in Artificial Intelligence (M.S./Ph.D. Integrated Course)
 
 **Kyung Hee University**, Seoul, Korea (Mar 2016 – Aug 2024)  
 - Bachelor of Science in Mechanical Engineering  
@@ -58,7 +58,7 @@ Presented by Prof. Byengchan Lee at the **2023 TMS Annual Meeting & Exhibition**
 ---
 
 ## Club Activities
-- **Unity Certified Club "GameMakers"** (Jan 2024 – Jun 2024)  
+- **GameMakers** (Jan 2024 – Jun 2024)  
   - Member (active until Jun 2024)
 
 - **Team Project** (Jan 2024 – present)  
