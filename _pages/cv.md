@@ -82,6 +82,7 @@ Presented by Prof. Byengchan Lee at the **2023 TMS Annual Meeting & Exhibition**
 
 ## Scholarships & Honors
 - LG AImers Scholarship, Outstanding Participant (2024)  
+- Excellent Reporter Award, Health Consumer (2024)
 - Superiority Scholarship, Ranked 2nd out of 203 (2023)  
 - University Innovation Scholarship for Research Excellence (2022)
 
