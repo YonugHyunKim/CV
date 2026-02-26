@@ -13,7 +13,7 @@ title                    : "kimyounghyun"
 title_separator          : "-"
 name                     : &name "kimyounghyun"
 description              : &description "Reinforcement Learning theory (DICE). Integrated MS/PhD student in AI at Yonsei University."
-url                      : "https://https://yonughyunkim.github.io"
+url                      : "https://yonughyunkim.github.io"
 baseurl                  : "/CV"
 repository               : "YonugHyunKim/CV"
 
