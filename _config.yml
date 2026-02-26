@@ -7,16 +7,15 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "kimyounghyun"
 title_separator          : "-"
 name                     : &name "kimyounghyun"
-description              : &description "Reinforcement Learning theory (DICE). Integrated MS/PhD student in AI at Yonsei University."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+description              : &description "Reinforcement Learning theory (DICE). Integrated MS/PhD student in AI at Yonsei University."
+url                      : "https://https://yonughyunkim.github.io"
+baseurl                  : "CV" # the subpath of your site, e.g. "/blog"
+repository               : "YonugHyunKim/CV"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "kimyounghyun"
   pronouns         : # example: "she/her"
-  bio              : "Integrated MS/PhD student (AI, Yonsei University). B.S. in Mechanical Engineering (Kyung Hee University). Research: reinforcement learning theory; interested in DICE. Advisor: Prof. Jongmin Lee."
+  bio              : "Integrated MS/PhD student in the Department of Artificial Intelligence at Yonsei University. B.S. in Mechanical Engineering at Kyung Hee University. Research: reinforcement learning theory; interested in DICE. Advisor: Prof. Jongmin Lee."
   location         : "Seoul, South Korea"
   employer         : "Yonsei University"
-  uri              : "https://www.linkedin.com/in/영현-김-171962385"
+  uri              : # URL
   email            : "yhkimm0@yonsei.ac.kr"
 
   # Academic websites
@@ -65,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "영현-김-171962385" # Username
+  linkedin         : "영현-김-171962385" # Username (part after /in/)
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -151,7 +150,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
