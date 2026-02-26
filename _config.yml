@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "kimyounghyun"
 description              : &description "Reinforcement Learning theory (DICE). Integrated MS/PhD student in AI at Yonsei University."
 url                      : "https://https://yonughyunkim.github.io"
-baseurl                  : "CV" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/CV"
 repository               : "YonugHyunKim/CV"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
