@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-Hi, I'm **Young Hyun Kim (KIM YOUNG HYUN)**, an **M.S./Ph.D. integrated student** majoring in **Artificial Intelligence** at **Yonsei University** (Sep 2024–present).
+Hi, I’m Young Hyun Kim (KIM YOUNG HYUN), an M.S./Ph.D. integrated student majoring in Artificial Intelligence at Yonsei University (Sep 2024–present).
 
-My background is in **Mechanical Engineering** (B.S., Kyung Hee University), and I have research and development experience across **Unity/C#**, **PyTorch**, and **C++**.
+My research interests lie in reinforcement learning theory, particularly policy distribution-ratio correction, aiming to improve the stability and reliability of learning under distribution shift.
 
 ### Education
 - **Yonsei University** — Major in Artificial Intelligence (M.S./Ph.D. Integrated Course), Sep 2024–present  
