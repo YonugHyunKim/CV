@@ -32,13 +32,11 @@ author_profile: true
 ### Research Internships
 **Lifelike Avatar & Agent Laboratory, KAIST** (Aug 2023 – Nov 2023)  
 Advisor: Prof. Sung-Hee Lee (Professor, Head, Graduate School of Culture Technology, KAIST)  
-- Assisted in research projects and implemented algorithms using **Unity** and **PyTorch**
 
 **Materials Theory and Technologies Group** (Jan 2022 – Aug 2023)  
 Kyung Hee University & Yonsei University  
 Advisor: Byengchan Lee (Associate Professor, Mechanical Engineering, Kyung Hee University)  
 Co-Advisor: Keonwook Kang (Associate Professor, Mechanical Engineering, Yonsei University)  
-- Developed computational structural mechanics simulation software using **C++**
 
 ---
 
