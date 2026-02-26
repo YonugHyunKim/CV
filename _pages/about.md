@@ -16,13 +16,11 @@ My background is in **Mechanical Engineering** (B.S., Kyung Hee University), and
 
 ### Education
 - **Yonsei University** — Major in Artificial Intelligence (M.S./Ph.D. Integrated Course), Sep 2024–present  
-- **Kyung Hee University** — B.S. in Mechanical Engineering, Mar 2016–Aug 2024 (GPA: 3.99/4.5)
+- **Kyung Hee University** — B.S. in Mechanical Engineering, Mar 2016–Aug 2024 
 
 ### Experience
 - Research Internship, **Lifelike Avatar & Agent Laboratory, KAIST** (Aug 2023–Nov 2023)  
-  - Implemented algorithms using **Unity** and **PyTorch**
 - Research Internship, **Materials Theory and Technologies Group** (Kyung Hee University & Yonsei University) (Jan 2022–Aug 2023)  
-  - Developed computational structural mechanics simulation software using **C++**
 
 ### Contact
 - Email: **yhkimm0@yonsei.ac.kr**
