@@ -62,7 +62,7 @@ Presented by Prof. Byengchan Lee at the **2023 TMS Annual Meeting & Exhibition**
   - Member (active until Jun 2024)
 
 - **Team Project** (Jan 2024 – present)  
-  - Developer (team member)  
+  - Contributing Developer (team member)  
   - **Grand Prize (Team Award)**, GameMakers Final Showcase (2024)  
   - **Excellence in Implementation Award (Team Award)**, 2024 LOGIN (2024)
 
