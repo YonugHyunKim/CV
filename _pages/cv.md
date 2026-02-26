@@ -22,7 +22,6 @@ author_profile: true
 ## Specialized AI Training
 **LG AImers AI Expert Course** (Jan 2024 – Apr 2024)  
 - Achieved **9th place out of 844 teams** at LG AI Hackathon  
-- Coursework: Mathematics, Machine Learning, Deep Learning  
 
 **Naver AI Boost Class** (Jan 2024 – Feb 2024)
 
