@@ -17,15 +17,6 @@ author_profile: true
 **Kyung Hee University**, Seoul, Korea (Mar 2016 – Aug 2024)  
 - Bachelor of Science in Mechanical Engineering  
 
----
-
-## Specialized AI Training
-**LG AImers AI Expert Course** (Jan 2024 – Apr 2024)  
-- Achieved **9th place out of 844 teams** at LG AI Hackathon  
-
-**Naver AI Boost Class** (Jan 2024 – Feb 2024)
-
----
 
 ## Professional Experience
 
@@ -36,7 +27,7 @@ Advisor: Prof. Sung-Hee Lee (Professor, Head, Graduate School of Culture Technol
 **Materials Theory and Technologies Group** (Jan 2022 – Aug 2023)  
 Kyung Hee University & Yonsei University  
 Advisor: Byengchan Lee (Associate Professor, Mechanical Engineering, Kyung Hee University)  
-Co-Advisor: Keonwook Kang (Associate Professor, Mechanical Engineering, Yonsei University)  
+Co-Advisor: Keonwook Kang (Associate Professor, Mechanical Engineering, Yonsei University) 
 
 ---
 
@@ -51,6 +42,14 @@ Co-Advisor: Keonwook Kang (Associate Professor, Mechanical Engineering, Yonsei U
 
 ---
 
+## Scholarships & Honors
+- LG AImers Scholarship, Outstanding Participant (2024)  
+- Excellent Reporter Award, Health Consumer (2024)
+- Superiority Scholarship (2023)  
+- University Innovation Scholarship for Research Excellence (2022)
+
+---
+
 ## Presentation
 **"Grain-Boundary Effects on the Irradiated Damages in W-Re Alloys,"**  
 Presented by Prof. Byengchan Lee at the **2023 TMS Annual Meeting & Exhibition**  
@@ -58,7 +57,6 @@ Presented by Prof. Byengchan Lee at the **2023 TMS Annual Meeting & Exhibition**
 
 ---
 
-## Club Activities
 ## Club Activities
 - **Unity Certified Club "GameMakers"** (Jan 2024 – Jun 2024)  
   - Member (active until Jun 2024)
@@ -73,24 +71,23 @@ Presented by Prof. Byengchan Lee at the **2023 TMS Annual Meeting & Exhibition**
 ---
 
 ## Extracurricular Activities
-- Member, Xreal Metaverse Society, Seoul National University  
+- Member, Xreal 
 - Youth Reporter, Health Consumer  
-- General Manager, Medifair Support Project (Medical Volunteer Club)  
+- Representative, Medifair Medical Volunteer Club 
 - Volunteer, Seoul City Volunteer Corps
+
+
+---
+
+## Specialized Training
+**LG AImers AI Expert Course** (Jan 2024 – Apr 2024)  
+- Achieved **9th place out of 844 teams** at LG AI Hackathon  
 
 ---
 
 ## Application Development Experience
 **Android Application Developer** (Aug 2018 – Dec 2019)  
 - Developed a medical device control application using **Kotlin** 
-
----
-
-## Scholarships & Honors
-- LG AImers Scholarship, Outstanding Participant (2024)  
-- Excellent Reporter Award, Health Consumer (2024)
-- Superiority Scholarship, Ranked 2nd out of 203 (2023)  
-- University Innovation Scholarship for Research Excellence (2022)
 
 ---
 
