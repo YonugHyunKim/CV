@@ -45,8 +45,8 @@ Co-Advisor: Keonwook Kang (Associate Professor, Mechanical Engineering, Yonsei U
 ## Scholarships & Honors
 - LG AImers Scholarship, Outstanding Participant (2024)  
 - Excellent Reporter Award, Health Consumer (2024)
-- Superiority Scholarship (2023)  
-- University Innovation Scholarship for Research Excellence (2022)
+- Superiority Scholarship, Kyung Hee University (2023)  
+- University Innovation Scholarship for Research Excellence, Kyung Hee University (2022)
 
 ---
 
