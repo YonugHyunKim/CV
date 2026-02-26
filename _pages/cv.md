@@ -79,7 +79,7 @@ Presented by Prof. Byengchan Lee at the **2023 TMS Annual Meeting & Exhibition**
 
 ## Application Development Experience
 **Android Application Developer** (Aug 2018 – Dec 2019)  
-- Developed a medical device control application using **Kotlin** (**30,000+ lines of code**)
+- Developed a medical device control application using **Kotlin** 
 
 ---
 
