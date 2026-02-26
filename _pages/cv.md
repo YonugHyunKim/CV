@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "CV"
+title: "KIM YOUNG HYUN"
 permalink: /cv/
 author_profile: true
 ---
 
-# KIM YOUNG HYUN
 **Email:** yhkimm0@yonsei.ac.kr  
 **Phone:** +82 10-2534-2973  
 
