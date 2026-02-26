@@ -15,7 +15,7 @@ redirect_from:
 - **Affiliation:** Integrated M.S./Ph.D. Program, Department of Artificial Intelligence, Yonsei University
 - **Research Area:** Reinforcement Learning Theory
 - **Interests:** DICE (and related topics)
-- **Advisor:** Prof. Jongmin Lee (이종민)
+- **Advisor:** Prof. [Jongmin Lee](https://www.jmlee.kr/)
 - **Email:** [yhkimm0@yonsei.ac.kr](mailto:yhkimm0@yonsei.ac.kr)
 - **LinkedIn:** [영현 김](https://www.linkedin.com/in/영현-김-171962385?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
