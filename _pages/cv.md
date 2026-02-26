@@ -59,9 +59,15 @@ Presented by Prof. Byengchan Lee at the **2023 TMS Annual Meeting & Exhibition**
 ---
 
 ## Club Activities
-- **Unity Certified Club "GameMakers"** (Jan 2024 – Present)  
-  - Grand Prize, GameMakers Team Project Final Showcase  
-  - Excellence in Implementation Award, 2024 LOGIN  
+## Club Activities
+- **Unity Certified Club "GameMakers"** (Jan 2024 – Jun 2024)  
+  - Member (active until Jun 2024)
+
+- **Team Project** (Jan 2024 – present)  
+  - Developer (team member)  
+  - **Grand Prize (Team Award)**, GameMakers Final Showcase (2024)  
+  - **Excellence in Implementation Award (Team Award)**, 2024 LOGIN (2024)
+
 - **Mechanical Engineering with Computer Club**, Kyung Hee University (Feb 2016 – Aug 2022)
 
 ---
