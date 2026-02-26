@@ -16,7 +16,6 @@ author_profile: true
 
 **Kyung Hee University**, Seoul, Korea (Mar 2016 – Aug 2024)  
 - Bachelor of Science in Mechanical Engineering  
-- **GPA:** 3.99 / 4.5  
 
 ---
 
