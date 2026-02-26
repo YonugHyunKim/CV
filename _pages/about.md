@@ -1,9 +1,14 @@
 ---
 layout: single
-title: "About"
-permalink: /about/
+permalink: /
+title: "Home"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
+
+{% include base_path %}
 
 Hi, I'm **Young Hyun Kim (KIM YOUNG HYUN)**, an **M.S./Ph.D. integrated student** majoring in **Artificial Intelligence** at **Yonsei University** (Sep 2024–present).
 
