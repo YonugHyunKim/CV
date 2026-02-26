@@ -25,7 +25,13 @@ author:
   avatar           : "profile.png"
   name             : "kimyounghyun"
   pronouns         : # example: "she/her"
-  bio              : "Integrated MS/PhD student in the Department of Artificial Intelligence at Yonsei University. B.S. in Mechanical Engineering at Kyung Hee University. Research: reinforcement learning theory; interested in DICE. Advisor: Prof. Jongmin Lee."
+  bio: >-
+    Integrated MS/PhD student in the Department of Artificial Intelligence at Yonsei University.<br>
+    B.S. in Mechanical Engineering at Kyung Hee University.<br>
+    Research: reinforcement learning theory; interested in DICE.<br>
+    Advisor: Prof. Jongmin Lee.
+  Research: reinforcement learning theory; interested in DICE.<br>
+  Advisor: Prof. Jongmin Lee.
   location         : "Seoul, South Korea"
   employer         : "Yonsei University"
   uri              : # URL
