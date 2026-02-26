@@ -9,56 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Basic Info
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Name:** Younghyun Kim (김영현)
+- **Affiliation:** Integrated M.S./Ph.D. Program, Department of Artificial Intelligence, Yonsei University
+- **Research Area:** Reinforcement Learning Theory
+- **Interests:** DICE (and related topics)
+- **Advisor:** Prof. Jongmin Lee (이종민)
+- **Email:** [yhkimm0@yonsei.ac.kr](mailto:yhkimm0@yonsei.ac.kr)
+- **LinkedIn:** [영현 김](https://www.linkedin.com/in/영현-김-171962385?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Yonsei University**, Department of Artificial Intelligence  
+  Integrated M.S./Ph.D. Program (in progress)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+- **Kyung Hee University**, Department of Mechanical Engineering  
+  B.S. (completed)
+
+## Research Interests
+
+- Reinforcement Learning Theory
+- DICE and related methods
+
+## Publications
+
+{% if site.publications and site.publications.size > 0 %}
+<ul>
+  {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
+  {% endfor %}
+</ul>
+{% else %}
+<p><em>No publications listed yet.</em></p>
+{% endif %}
+
+## Talks
+
+{% if site.talks and site.talks.size > 0 %}
+<ul>
+  {% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}
+</ul>
+{% endif %}
+
+## Teaching
+
+{% if site.teaching and site.teaching.size > 0 %}
+<ul>
+  {% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}
+</ul>
+{% endif %}
