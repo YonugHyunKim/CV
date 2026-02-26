@@ -92,4 +92,4 @@ Presented by Prof. Byengchan Lee at the **2023 TMS Annual Meeting & Exhibition**
 ---
 
 ## Technical Skills
-- Programming Languages: C++, Python (PyTorch), C# (Unity), MATLAB
+- Programming Languages: C++, Python, MATLAB
