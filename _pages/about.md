@@ -15,10 +15,6 @@ redirect_from:
 Hi, I'm **Younghyun Kim (김영현)**.  
 I'm an **integrated M.S./Ph.D. student** in the **Department of Artificial Intelligence at Yonsei University**.
 
-- **B.S.** in Mechanical Engineering, Kyung Hee University  
-- **Research:** Reinforcement Learning Theory  
-- **Interests:** DICE  
-- **Advisor:** Prof. Jongmin Lee (이종민)
 
 ## Contact
 
