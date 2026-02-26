@@ -81,15 +81,15 @@ Presented by Prof. Byengchan Lee at the **2023 TMS Annual Meeting & Exhibition**
 
 ## Specialized Training
 **LG AImers AI Expert Course** (Jan 2024 – Apr 2024)  
-- Achieved **9th place out of 844 teams** at LG AI Hackathon  
+- Achieved 9th place out of 844 teams at LG AI Hackathon  
 
 ---
 
 ## Application Development Experience
 **Android Application Developer** (Aug 2018 – Dec 2019)  
-- Developed a medical device control application using **Kotlin** 
+- Developed a medical device control application using Kotlin 
 
 ---
 
 ## Technical Skills
-- Programming Languages: **C++, Python (PyTorch), C# (Unity), MATLAB**
+- Programming Languages: C++, Python (PyTorch), C# (Unity), MATLAB
